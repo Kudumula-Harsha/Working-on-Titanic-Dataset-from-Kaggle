@@ -2,18 +2,13 @@
 
 This project uses the Titanic dataset sourced from Kaggle.
 
-The dataset consists of the following files:
+The dataset includes:
 
-- **Training Data (train.csv):**  
-  https://www.kaggle.com/code/harshakudumula/simple-eda-and-model-on-titanic-dataset?select=train.csv  
+- 🔹 [Training Data (train.csv)](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv)  
+- 🔹 [Testing Data (test.csv)](https://www.kaggle.com/competitions/spaceship-titanic/data?select=test.csv)  
+- 🔹 [Sample Submission File](https://www.kaggle.com/competitions/spaceship-titanic/data?select=sample_submission.csv)  
 
-- **Testing Data (test.csv):**  
-  https://www.kaggle.com/code/harshakudumula/simple-eda-and-model-on-titanic-dataset?select=test.csv  
-
-- **Sample Submission File (sample_submission.csv):**  
-  https://www.kaggle.com/code/harshakudumula/simple-eda-and-model-on-titanic-dataset?select=sample_submission.csv  
-
-Source Kaggle Notebook:  
-https://www.kaggle.com/code/harshakudumula/simple-eda-and-model-on-titanic-dataset  
+**Source Notebook:**  
+👉 [Simple EDA and Model on Titanic Dataset (Kaggle)](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 
 All dataset credits belong to the original Kaggle authors and dataset providers.
